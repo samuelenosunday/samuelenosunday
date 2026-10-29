@@ -6,11 +6,11 @@ I evaluate AI models to make them smarter, safer, and more helpful. I specialize
 
 ---
 
-### 🔭 What I'm currently working on
+### 🚀 My AI Training Portfolio
 
-I am building a portfolio of tools to automate LLM evaluation and data labeling QA.
-- 🛠️ **Current Project:** Building an LLM Response Evaluator (Python).
-- 🎯 **Goal:** Deliver top-tier RLHF and annotation work for AI training platforms.
+- 🧠 **[LLM Response Evaluator](https://github.com/samuelenosunday/llm-response-evaluator)** — Scores LLM outputs on factuality, relevance, and safety (Python).
+- 🧪 **[Data Labeling QA](https://github.com/samuelenosunday/data-labeling-qa)** — Computes Cohen's Kappa, flags annotator bias, and identifies adjudication candidates (Python).
+- 🛠️ Currently building: a prompt injection detector (AI safety).
 
 ### 🧰 My Tech Stack
 
