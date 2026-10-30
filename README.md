@@ -10,7 +10,8 @@ I evaluate AI models to make them smarter, safer, and more helpful. I specialize
 
 - 🧠 **[LLM Response Evaluator](https://github.com/samuelenosunday/llm-response-evaluator)** — Scores LLM outputs on factuality, relevance, and safety (Python).
 - 🧪 **[Data Labeling QA](https://github.com/samuelenosunday/data-labeling-qa)** — Computes Cohen's Kappa, flags annotator bias, and identifies adjudication candidates (Python).
-- 🛠️ Currently building: a prompt injection detector (AI safety).
+- 🛡️ **[Prompt Injection Detector](https://github.com/samuelenosunday/prompt-injection-detector)** — Detects prompt injection attacks with a rule-based risk scorer (Python).
+- 📚 **[Red Team Prompt Library](https://github.com/samuelenosunday/red-team-prompt-library)** — 55 documented adversarial prompts + a full evaluation rubric for AI red-teaming.
 
 ### 🧰 My Tech Stack
 
