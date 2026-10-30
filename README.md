@@ -8,10 +8,20 @@ I evaluate AI models to make them smarter, safer, and more helpful. I specialize
 
 ### 🚀 My AI Training Portfolio
 
-- 🧠 **[LLM Response Evaluator](https://github.com/samuelenosunday/llm-response-evaluator)** — Scores LLM outputs on factuality, relevance, and safety (Python).
-- 🧪 **[Data Labeling QA](https://github.com/samuelenosunday/data-labeling-qa)** — Computes Cohen's Kappa, flags annotator bias, and identifies adjudication candidates (Python).
-- 🛡️ **[Prompt Injection Detector](https://github.com/samuelenosunday/prompt-injection-detector)** — Detects prompt injection attacks with a rule-based risk scorer (Python).
-- 📚 **[Red Team Prompt Library](https://github.com/samuelenosunday/red-team-prompt-library)** — 55 documented adversarial prompts + a full evaluation rubric for AI red-teaming.
+**🧪 Evaluation & QA**
+- **[LLM Response Evaluator](https://github.com/samuelenosunday/llm-response-evaluator)** — Scores LLM outputs on factuality, relevance, and safety (Python).
+- **[Data Labeling QA](https://github.com/samuelenosunday/data-labeling-qa)** — Computes Cohen's Kappa, flags annotator bias, identifies adjudication candidates (Python).
+- **[LLM Hallucination Detector](https://github.com/samuelenosunday/llm-hallucination-detector)** — Verifies LLM claims against a knowledge base, flags hallucinations (Python).
+
+**🛡️ Safety & Red-Teaming**
+- **[Prompt Injection Detector](https://github.com/samuelenosunday/prompt-injection-detector)** — Detects prompt injection attacks with a rule-based risk scorer (Python).
+- **[Red Team Prompt Library](https://github.com/samuelenosunday/red-team-prompt-library)** — 55 documented adversarial prompts + a full evaluation rubric.
+
+**📊 Data Analysis**
+- **[AI Trainer Performance Analyzer](https://github.com/samuelenosunday/ai-trainer-performance-analyzer)** — SQL + Python analysis of trainer performance: KPIs, trends, anomaly detection, root-cause.
+
+**📝 Annotation Design**
+- **[Annotation Guidelines Template](https://github.com/samuelenosunday/annotation-guidelines-template)** — Professional 11-section template + two worked examples (sentiment, safety).
 
 ### 🧰 My Tech Stack
 
